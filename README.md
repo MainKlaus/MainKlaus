@@ -5,10 +5,11 @@
 - 💬 Curiosidade e pensamento crítico
 
  
-<a href="https://github.com/MainKlaus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MainKlaus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</a>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MainKlaus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainKlaus&layout=compact&langs_count=7&theme=radical"/>
+</p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainKlaus&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MainKlaus&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4"/>
 </p>
